@@ -4,6 +4,7 @@ class Header {
     required this.start,
     required this.end,
   });
+
   late final String title;
   late final String start;
   late final String end;

@@ -4,7 +4,8 @@ A new Sunny Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was created for the NASA SPACE APPS CHALLENGE
+(https://2021.spaceappschallenge.org/challenges/statements/you-are-my-sunshine/details)
 
 A few resources to get you started if this is your first Flutter project:
 

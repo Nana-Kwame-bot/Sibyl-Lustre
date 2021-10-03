@@ -3,6 +3,7 @@ class Geometry {
     required this.type,
     required this.coordinates,
   });
+
   late final String type;
   late final List<double> coordinates;
 

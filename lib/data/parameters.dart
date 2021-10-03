@@ -4,6 +4,7 @@ class Parameters {
   Parameters({
     required this.labels,
   });
+
   late final Labels labels;
 
   Parameters.fromJson(Map<String, dynamic> json) {

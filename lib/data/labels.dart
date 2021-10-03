@@ -3,6 +3,7 @@ class Labels {
     required this.units,
     required this.longName,
   });
+
   late final String units;
   late final String longName;
 
